@@ -1,7 +1,7 @@
 d = {} #Empty Dictionary
 dict = {
     "Rahul" : 100,
-    "Tits" : 98,
+    "Tarak" : 98,
     "Dev" : [101, 25, 95] # List as a value of particular Key
 }
 
@@ -22,7 +22,6 @@ print(dict.items())
 
 print(dict["Dev"]) 
 print(dict.get("Dev"))
-print(dict.get("Lodu"))
 
 dict.pop("Dev") #Remove Corresponding key value pair
 print(dict)
