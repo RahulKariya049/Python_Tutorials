@@ -1,2 +1,2 @@
 # Python_Tutorials
-#This repository contains all python script which i had written to learn python 
+#This repository contains all python scripts which I had written to learn python 
