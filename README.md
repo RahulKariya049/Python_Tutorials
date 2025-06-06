@@ -25,3 +25,11 @@ This is not a copy-paste tutorial repo. Every file here is part of my intentiona
 ## 🚀 Next Steps
 - Apply OOP in mini-projects (done in other repos)
 - Move to ML-focused repos using this base
+- Build small OOP-based mini projects
+- Start using `numpy`, `pandas`, `matplotlib` in new repo
+- Solve DSA problems in Python (new repo: `dsa-python`)
+
+---
+
+## 🧠 Bonus Tip
+If you're also learning Python, feel free to fork this repo and use the structure. Contributions welcome if you're serious.
