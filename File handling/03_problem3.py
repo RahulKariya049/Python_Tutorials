@@ -21,5 +21,5 @@ def censor_words(file, C_list):
 
 
 
-censored_words = ["fool", "gadha", "jhat", "gandu", "lodu"]
+censored_words = ["fool", "gadha", "jhat", "donkey", "shameless"]
 censor_words("censored.txt",censored_words)
