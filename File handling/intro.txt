@@ -1,0 +1,5 @@
+This Content was already written in .txt file
+the second line of our txt file
+similarly multiple lines to read for python program
+Love you
+This Text is appended by the python program.....
