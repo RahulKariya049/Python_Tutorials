@@ -32,4 +32,4 @@ This is not a copy-paste tutorial repo. Every file here is part of my intentiona
 ---
 
 ## 🧠 Bonus Tip
-If you're also learning Python, feel free to fork this repo and use the structure. Contributions welcome if you're serious.
+If you're also learning Python, feel free to fork this repo and use the structure.
